@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Logo">
+  <rect x="6" y="6" width="228" height="228" rx="24" fill="#f1f5f9" stroke="#94a3b8" stroke-width="4" stroke-dasharray="14 10"/>
+  <g fill="none" stroke="#94a3b8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="80" y="62" width="80" height="60" rx="8"/>
+    <circle cx="103" cy="84" r="7"/>
+    <path d="M84 116l24-22 16 14 12-10 20 18"/>
+  </g>
+  <text x="120" y="172" text-anchor="middle" font-family="system-ui, sans-serif" font-size="30" font-weight="700" fill="#64748b">LOGO</text>
+  <text x="120" y="200" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#94a3b8">Ingresar logo aquí</text>
+</svg>
